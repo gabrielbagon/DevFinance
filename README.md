@@ -5,7 +5,7 @@
 
  Features:
 
-- Baixe o arquivo ROCKETDOM
+- Baixe o arquivo DevFinance-main
 - Vá até a pasta raiz do projeto
 - Abra o arquivo index.html
 
